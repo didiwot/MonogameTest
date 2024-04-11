@@ -1,0 +1,83 @@
+D:\Cprojects\TEST1\TEST1\obj\Debug\net6.0\TEST1.csproj.AssemblyReference.cache
+D:\Cprojects\TEST1\TEST1\obj\Debug\net6.0\TEST1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cprojects\TEST1\TEST1\obj\Debug\net6.0\TEST1.AssemblyInfoInputs.cache
+D:\Cprojects\TEST1\TEST1\obj\Debug\net6.0\TEST1.AssemblyInfo.cs
+D:\Cprojects\TEST1\TEST1\obj\Debug\net6.0\TEST1.csproj.CoreCompileInputs.cache
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\map.tmx
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_down.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_left.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_right.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Attack\Char_atk_up.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Char_4_sides.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_down.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_left.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_right.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Idle\Char_idle_up.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_down.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_left.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_right.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_one\Walk\Char_walk_up.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\1.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\2.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\3.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Attack\4.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Char2_4sides.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_down.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_left.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_right.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\Char2_idle_up.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.sf
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Idle\playerSheetIdle.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_down.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_left.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_right.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\Char2_walk_up.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.sf
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Character\Char_two\Walk\playerSheetWalk.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\env.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Blue_orb.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Coin.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Green_orb.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Heart.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Bush.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Chest.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Grass.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Rock.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Sign.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_top.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Misc\Tree\Tree_trunk.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Other\Red_orb.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_down.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_left.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_right.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Idle\Skel_idle_up.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Skel_4Sides.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_down.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_left.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_right.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Tiny Adventure Pack\Skeleton\Walk\Skel_walk_up.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\TEST1.exe
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\TEST1.deps.json
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\TEST1.runtimeconfig.json
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\TEST1.dll
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\TEST1.pdb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\MonoGame.Extended.dll
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Cprojects\TEST1\TEST1\obj\Debug\net6.0\TEST1.csproj.Up2Date
+D:\Cprojects\TEST1\TEST1\obj\Debug\net6.0\TEST1.dll
+D:\Cprojects\TEST1\TEST1\obj\Debug\net6.0\refint\TEST1.dll
+D:\Cprojects\TEST1\TEST1\obj\Debug\net6.0\TEST1.pdb
+D:\Cprojects\TEST1\TEST1\obj\Debug\net6.0\TEST1.genruntimeconfig.cache
+D:\Cprojects\TEST1\TEST1\obj\Debug\net6.0\ref\TEST1.dll
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Controls\Button.xnb
+D:\Cprojects\TEST1\TEST1\bin\Debug\net6.0\Content\Fonts\Font.xnb
